@@ -1,0 +1,26 @@
+{
+  "name": "backendnode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "process": "^0.11.10"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.12",
+    "@types/express": "^4.17.13",
+    "@types/mysql": "^2.15.21",
+    "@types/node": "^18.0.3"
+  }
+}
